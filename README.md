@@ -1,4 +1,4 @@
-##                                            " Hélises para Desarrollo "
+##                                            " Hélises para el Desarrollo "
 <div>
 ###                 <img border="right" src="imagen Hugo & Enrique elecciones 2024 cipcallao.jpg" width="350" height="450">
 </div>
@@ -6,7 +6,7 @@
 ### Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
 
 - 🔭 Actualmente trabajo en la UNI como Docente-Investigador. Ocupo el cargo de Director de la Unidad de Investigación de la FIA (Facultad de Ingeniería Ambiental)
-- 🎥 Apoyo a la agrupación "Hélises del Desarrollo" liderado por el candidato a DECANO el Ing. Enrique Serrano. Para las próximas elecciones del CIP-Callao
+- 🎥 Apoyo a la agrupación "Hélises para el Desarrollo" liderado por el candidato a DECANO el Ing. Enrique Serrano. Para las próximas elecciones del CIP-Callao
 - 📫 Formo parte del selecto grupo de investigadores del CONCYTEC ocupando el NIVEL IV del RENACyT
 
   
