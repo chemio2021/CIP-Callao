@@ -4,9 +4,6 @@
 </div>
 
 ### Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
-<div>
-<img border="right" src="Logo chemio3.png" width="100" height="50">
-</div>
 
 - 🔭 Actualmente trabajo en la UNI como Docente-Investigador. Ocupo el cargo de Director de la Unidad de Investigación de la FIA (Facultad de Ingeniería Ambiental)
 - 🎥 Apoyo a la agrupación "Hélises del Desarrollo" liderado por el candidato a DECANO el Ing. Enrique Serrano. Para las próximas elecciones del CIP-Callao
