@@ -15,7 +15,7 @@
    - Luchar por una digna representación legal y gratuita para nuestros agremiados
    - Representatividad del Capitulo en Obras de gran envergadura
   
- 
+ </div>
 
 <div>
   <a href="https://web.facebook.com/hdccoll" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
