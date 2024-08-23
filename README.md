@@ -2,8 +2,10 @@
 <div>
 <img border="center" src="foto-hugo-enrique.png" width="400" height="350">
   
+</div>
+
 ####  Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
-</div> 
+
 
 - 🔭 Actualmente trabajo en la UNI como Docente-Investigador. Ocupo el cargo de Director de la Unidad de Investigación de la FIA (Facultad de Ingeniería Ambiental)
 - 🎥 Apoyo a la agrupación "Hélices para el Desarrollo" liderado por el candidato a DECANO el Ing. Enrique Serrano. Para las próximas elecciones del CIP-Callao
