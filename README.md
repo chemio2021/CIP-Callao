@@ -4,7 +4,7 @@
   
 </div>
 
-####  Soy El Dr. Ingeniero Hugo Chirinos, candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
+####  Soy Hugo Chirinos, Ingeniero Químico (CIP-110818), candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
 
 
 - 🔭 Actualmente trabajo en la UNI como Docente-Investigador. Ocupo el cargo de Director de la Unidad de Investigación de la FIA (Facultad de Ingeniería Ambiental)
