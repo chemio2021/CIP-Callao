@@ -1,5 +1,5 @@
 
-<img border="center" src="logo cip callao.jpg" width="100" height="100"> ####  <font size="30">" Hélices para el Desarrollo " </font> 
+<img border="center" src="logo cip callao.jpg" width="100" height="100">  <font size="30">" Hélices para el Desarrollo " </font> 
 <div>
 <img border="center" src="foto-hugo-enrique.png" width="400" height="350">
   
