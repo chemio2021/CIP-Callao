@@ -2,6 +2,7 @@
 <div>
 <img border="center" src="foto-hugo-enrique.png" width="400" height="350">
 </div>
+<div>
 ## <font size="20"> Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao </font>
 
 - 🔭 Actualmente trabajo en la UNI como Docente-Investigador. Ocupo el cargo de Director de la Unidad de Investigación de la FIA (Facultad de Ingeniería Ambiental)
