@@ -1,6 +1,6 @@
 ##  <font size="50">" Hélices para el Desarrollo " </font>
 <div>
-<img border="left" src="foto 2 hugo enrique.png" width="300" height="450">
+<img border="left" src="foto-hugo-enrique.png" width="300" height="450">
 
 ### Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
 
