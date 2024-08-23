@@ -1,3 +1,4 @@
+<img border="center" src="logopng" width="100" height="100">
 ####  <font size="30">" Hélices para el Desarrollo " </font>
 <div>
 <img border="center" src="foto-hugo-enrique.png" width="400" height="350">
