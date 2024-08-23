@@ -1,6 +1,6 @@
 # CIP-Callao
 <div>
-<img border="right" src="imagen hugo&enrique cipcallao.png" width="450" height="450">
+<img border="right" src="imagen Hugo & Enrique elecciones 2024 cipcallao.jpg" width="450" height="450">
 </div>
 
 ### Soy Candidato para Presidente del Capitulo de Químico del Colegio de Ingenieros del Perú Consejo Provincial del Callao
