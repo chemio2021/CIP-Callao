@@ -2,7 +2,7 @@
 <div>
 <img border="center" src="foto-hugo-enrique.png" width="400" height="350">
   
-##  <font size="20">Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao</font>
+##  <font size="10">Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao</font>
 </div> 
 <div>
 
