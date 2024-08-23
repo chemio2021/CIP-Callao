@@ -1,4 +1,4 @@
-##  <p align="center"> <font size="50">" Hélices para el Desarrollo " </font></p>
+##  <font size="50">" Hélices para el Desarrollo " </font>
 <div>
 <img border="right" src="logo cip callao.jpg" width="150" height="150">  <img border="center" src="imagen Hugo & Enrique elecciones 2024 cipcallao.jpg" width="350" height="450"> <img border="left" src="logo agrupacion.png" width="150" height="150">
 </div>
