@@ -1,7 +1,7 @@
 
-<img border="center" src="logo cip callao.jpg" width="110" height="110">  <font size="80">" Hélices para el Desarrollo " </font> <img border="center" src="logo agrupacion.png" width="100" height="100">
+<img border="center" src="logo cip callao.jpg" width="110" height="110">  <font size="40">"Hélices para el Desarrollo" </font> <img border="center" src="logo agrupacion.png" width="100" height="100">
 <div>
-<img border="center" src="foto-hugo-enrique.png" width="400" height="320">
+<img border="center" src="foto-hugo-enrique.png" width="320" height="400">
   
 </div>
 
