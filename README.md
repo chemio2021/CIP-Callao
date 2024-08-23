@@ -1,9 +1,9 @@
-###       " Hélises del Desarrollo "
+###                  " Hélises para Desarrollo "
 <div>
 <img border="right" src="imagen Hugo & Enrique elecciones 2024 cipcallao.jpg" width="400" height="450">
 </div>
 
-### Soy Candidato para Presidente del Capitulo de Químico del Colegio de Ingenieros del Perú Consejo Provincial del Callao
+### Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
 <div>
 <img border="right" src="Logo chemio3.png" width="100" height="50">
 </div>
