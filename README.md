@@ -1,7 +1,7 @@
 ##  <font size="50">" Hélices para el Desarrollo " </font>
 <div>
- <img border="right" src="imagen Hugo & Enrique elecciones 2024 cipcallao.jpg" width="300" height="450"> <img border="left" src="logo agrupacion.png" width="150" height="150">
-</div> <img border="left" src="logo cip callao.jpg" width="150" height="150"> 
+<img border="left" src="imagen Hugo & Enrique elecciones 2024 cipcallao.jpg" width="300" height="450"> <img border="right" src="logo agrupacion.png" width="150" height="150">
+</div> <img border="right" src="logo cip callao.jpg" width="150" height="150">
 
 ### Soy Candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
 
