@@ -13,10 +13,10 @@
 - 📫 Formo parte del selecto grupo de investigadores del CONCYTEC ocupando el NIVEL IV del RENACyT
 
   
-- ⚡  MIS PROPUESTAS SON:
-   - Luchar por una digna atención de los asegurados de nuestra agrupación
-   - Luchar por una digna representación legal y gratuita para nuestros agremiados
-   - Representatividad del Capitulo en Obras de gran envergadura
+- ⚡  LAS PROPUESTAS SON:
+   - Fortalecer competencias en las áreas de la Industria Química, La Electro-movibilidad y Combustibles Alternativos
+   - Mediante agenda de Capacitaciones Y Talleres especializados,
+   - Énfasis a la Investigación y Promoción de Combustibles Alternativos (Hidrógeno Verde, Bio-combustibles y Combustibles Sintéticos)
   
 
 <div>
