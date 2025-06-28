@@ -1,5 +1,5 @@
 
-<font size="80">"INGENIEROS POR EL GRAN CAMBIO" </font> 
+<font size="100">"INGENIEROS POR EL GRAN CAMBIO" </font> 
 <div>
 <img border="center" src="imagen chemio.jpeg" width="320" height="400">
   
