@@ -5,18 +5,18 @@
   
 </div>
 
-####  Soy el Dr. Hugo Chirinos, Ingeniero Químico (CIP-110818), candidato para Presidente del Capitulo de Químicos-geólogos-metalúrgicos del Colegio de Ingenieros del Perú Consejo Provincial del Callao
+####  Soy el Dr. Hugo Chirinos, Ingeniero Químico (CIP-110818), Presidente electo del Capitulo de Químicos-geólogos-metalúrgicos y afines del Colegio de Ingenieros del Perú Consejo Provincial del Callao
 
 
 - 🔭 Actualmente trabajo en la UNI como Docente-Investigador. Ocupo el cargo de Director de la Unidad de Investigación de la FIA (Facultad de Ingeniería Ambiental)
-- 🎥 Apoyo a la agrupación "Hélices para el Desarrollo" liderado por el candidato a DECANO el Ing. Enrique Rosendo Serrano Bazan. Para las próximas elecciones del CIP-Callao
 - 📫 Formo parte del selecto grupo de investigadores del CONCYTEC ocupando el NIVEL IV del RENACyT
 
   
-- ⚡  LAS PROPUESTAS SON:
-   - Fortalecer competencias en las áreas de la Industria Química, La Electro-movibilidad y Combustibles Alternativos
-   - Mediante agenda de Capacitaciones Y Talleres especializados,
-   - Énfasis a la Investigación y Promoción de Combustibles Alternativos (Hidrógeno Verde, Bio-combustibles y Combustibles Sintéticos)
+- ⚡  LOS DIRECTIVOS DE MI LISTA SON:
+      Vice-Presidente: Mario Carpio Ronquillo
+      Secretaria: Susana Gonzales Carbajal
+      Pro-secretario: Raúl Pizarro Cabrera
+      Vocal 1: Boulangger Rondoy: CIP
   
 
 <div>
