@@ -13,10 +13,10 @@
 
   
 - ⚡  LOS DIRECTIVOS DE MI LISTA SON:
-    - Vice-Presidente: Mario Carpio Ronquillo
-    - Secretaria: Susana Gonzales Carbajal
-    - Pro-secretario: Raúl Pizarro Cabrera
-    - Vocal 1: Boulangger Rondoy: CIP
+    - Vice-Presidente: Mario Francisco Carpio Ronquillo
+    - Secretaria: Susana Elizabeth Gonzales Carbajal
+    - Pro-secretario: Raúl German Pizarro Cabrera
+    - Vocal 1: Elmer Boulangger Rondoy
   
 
 <div>
