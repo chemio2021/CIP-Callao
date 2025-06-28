@@ -1,5 +1,5 @@
 
-<font size="20">"INGENIEROS POR EL GRAN CAMBIO" </font> 
+<font size="40">"INGENIEROS POR EL GRAN CAMBIO" </font> 
 <div>
 <img border="center" src="foto-hugo-enrique.png" width="320" height="400">
   
@@ -13,10 +13,10 @@
 
   
 - ⚡  LOS DIRECTIVOS DE MI LISTA SON:
-      Vice-Presidente: Mario Carpio Ronquillo
-      Secretaria: Susana Gonzales Carbajal
-      Pro-secretario: Raúl Pizarro Cabrera
-      Vocal 1: Boulangger Rondoy: CIP
+    - Vice-Presidente: Mario Carpio Ronquillo
+    - Secretaria: Susana Gonzales Carbajal
+    - Pro-secretario: Raúl Pizarro Cabrera
+    - Vocal 1: Boulangger Rondoy: CIP
   
 
 <div>
