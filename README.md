@@ -1,7 +1,7 @@
 
-<font size="40">"INGENIEROS POR EL GRAN CAMBIO" </font> 
+<font size="80">"INGENIEROS POR EL GRAN CAMBIO" </font> 
 <div>
-<img border="center" src="foto-hugo-enrique.png" width="320" height="400">
+<img border="center" src="imagen chemio.jpeg" width="320" height="400">
   
 </div>
 
